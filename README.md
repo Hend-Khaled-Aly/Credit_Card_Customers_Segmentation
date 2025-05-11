@@ -59,8 +59,3 @@ This project applies unsupervised machine learning techniques to segment credit 
 ## 📃 Report
 
 The complete project report is available in both DOCX and PDF formats inside this repo.
-
----
-
-Feel free to fork or download the notebook to explore the clustering logic or adapt it for other segmentation projects.
-
